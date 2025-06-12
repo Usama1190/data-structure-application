@@ -33,6 +33,7 @@ Data Structures and their real-world applications, using the Java programming la
 
 data-structure-application/
 │
+├── Assignemts/
 ├── Theory/ # Contains conceptual notes for each topic
 │ ├── 01-Introduction/
 │ ├── 02-Array/
@@ -52,4 +53,3 @@ data-structure-application/
 │ └── 07-Merge-Sort/
 
 └── README.md # Course overview and documentation
-
